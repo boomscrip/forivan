@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fb2f5c45ea1831de56dd",
+    "revision": "347c60c6d67e348000c8",
     "url": "/forivan/static/css/main.5e8145f4.chunk.css"
   },
   {
-    "revision": "fb2f5c45ea1831de56dd",
-    "url": "/forivan/static/js/main.c9b1012b.chunk.js"
+    "revision": "347c60c6d67e348000c8",
+    "url": "/forivan/static/js/main.4ee1fc36.chunk.js"
   },
   {
     "revision": "56ece4aa971476e7b0a5",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/forivan/static/js/2.acc95e19.chunk.js"
   },
   {
-    "revision": "1e8fb2633f1746096f1d8e11f6e8d023",
+    "revision": "73f4c4befd5ad0d1503de54509cc756a",
     "url": "/forivan/index.html"
   }
 ];
